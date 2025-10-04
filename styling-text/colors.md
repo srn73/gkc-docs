@@ -1,14 +1,11 @@
 ---
-title: Styling Text
-parent: Text
-nav_order: 1
+title: Colors
+description: Change the color of text
+parent: Styling Text
+nav_order: 2
 ---
 
-# Styling Text
-
-You are able to style Activity Feed text and Overlays with these tags.
-
-## Colors
+# Colors
 
 **Note: The tags below are the only known ones we have. However, if you find more please add them!**
 
@@ -44,30 +41,4 @@ You are able to style Activity Feed text and Overlays with these tags.
 
 ```
 <green>Green Text!</green>
-```
-
-## Formatting
-
-### Bold
-
-![Bold](images/bold.png)
-
-```
-<b>Player</b> looked down...
-```
-
-### Italic
-
-![Italic](images/italic.png)
-
-```
-<i>This text is very important.</i>
-```
-
-### Monospace
-
-![Monospace](images/monospace.png)
-
-```
-<monospace>Beep boop.</monospace>
 ```

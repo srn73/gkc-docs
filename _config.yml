@@ -1,0 +1,7 @@
+title: "Creative Docs"
+description: "Documentation about Gimkit Creative"
+theme: just-the-docs
+
+just_the_docs:
+  search_enabled: true
+  nav_sort: case_insensitive # keep sidebar alphabetized if no nav_order

@@ -1,6 +1,7 @@
 title: "Creative Docs"
 description: "Documentation about Gimkit Creative"
 remote_theme: just-the-docs/just-the-docs
+docs_dir: .
 
 plugins:
   - jekyll-seo-tag

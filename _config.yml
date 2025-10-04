@@ -1,12 +1,7 @@
 title: "Creative Docs"
 description: "Documentation about Gimkit Creative"
-remote_theme: just-the-docs/just-the-docs
+# remote_theme: just-the-docs/just-the-docs
 
 plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
-
-just_the_docs:
-  search_enabled: true
-  docs_dir: .
-  nav_sort: case_insensitive

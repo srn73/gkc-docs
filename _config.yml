@@ -2,6 +2,11 @@ title: "Creative Docs"
 description: "Documentation about Gimkit Creative"
 theme: just-the-docs
 
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-seo-tag
+
 just_the_docs:
   search_enabled: true
-  nav_sort: case_insensitive # keep sidebar alphabetized if no nav_order
+  nav_sort: case_insensitive
